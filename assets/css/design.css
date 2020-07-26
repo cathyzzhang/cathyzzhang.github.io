@@ -85,13 +85,10 @@
 /**
  * content
  */
-#content {
-  position:relative;
-  top: 20%;
-}
+
 #pictures {
     position: absolute;
-    top: 50%;
+  
     left: 60%;
     transform: translate(-50%, -50%);
     width: 800px;
