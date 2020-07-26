@@ -46,7 +46,40 @@ function unhideLightbox6() {
 }
 document.getElementById('picture-6').onclick = unhideLightbox6;
 
+function unhideLightbox7() {
+	unhideLightbox("design7");
+}
+document.getElementById('picture-7').onclick = unhideLightbox7;
 
+function unhideLightbox8() {
+	unhideLightbox("design8");
+}
+document.getElementById('picture-8').onclick = unhideLightbox8;
+
+function unhideLightbox9() {
+	unhideLightbox("design9");
+}
+document.getElementById('picture-9').onclick = unhideLightbox9;
+
+function unhideLightbox10() {
+	unhideLightbox("design10");
+}
+document.getElementById('picture-10').onclick = unhideLightbox10;
+
+function unhideLightbox11() {
+	unhideLightbox("design11");
+}
+document.getElementById('picture-11').onclick = unhideLightbox11;
+
+function unhideLightbox12() {
+	unhideLightbox("design12");
+}
+document.getElementById('picture-12').onclick = unhideLightbox12;
+
+function unhideLightbox13() {
+	unhideLightbox("design13");
+}
+document.getElementById('picture-13').onclick = unhideLightbox13;
 
 //
 // Part 3: Now we need to be able to close the lightbox when we click outside the picture!
